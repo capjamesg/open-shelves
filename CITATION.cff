@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Open Shelves
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: James
+    family-names: Gallagher
+    email: jamesg@jamesg.blog
+repository-code: 'https://github.com/capjamesg/open-shelves'
+url: 'https://universe.roboflow.com/capjamesg/open-shelves'
+abstract: >-
+  Open Shelves is an open source dataset of annotated book
+  spines.
+keywords:
+  - object-detection
+  - book-spines
+license: CC-BY-NC-SA-4.0
