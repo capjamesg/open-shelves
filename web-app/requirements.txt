@@ -1,0 +1,6 @@
+gradio
+requests
+numpy
+supervision
+inference-sdk
+openai
