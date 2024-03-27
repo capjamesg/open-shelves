@@ -1,7 +1,5 @@
 ![open-shelves](https://github.com/capjamesg/open-shelves/assets/37276661/f72ee9f2-bca7-4ea4-8d39-29b92f65d44b)
 
-[![DOI](https://zenodo.org/badge/10885753.svg)](https://zenodo.org/doi/10.5281/zenodo.10885753)
-
 # Open Shelves
 
 [![Download the dataset](https://media.roboflow.com/download-dataset-badge.svg)](https://universe.roboflow.com/capjamesg/open-shelves)
