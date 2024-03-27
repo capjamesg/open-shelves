@@ -11,8 +11,10 @@ authors:
   - given-names: James
     family-names: Gallagher
     email: jamesg@jamesg.blog
+    orcid: "https://orcid.org/0009-0006-3736-1653"
 repository-code: 'https://github.com/capjamesg/open-shelves'
 url: 'https://universe.roboflow.com/capjamesg/open-shelves'
+doi: 10.5281/zenodo.10885753
 abstract: >-
   Open Shelves is an open source dataset of annotated book
   spines.
